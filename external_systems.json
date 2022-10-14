@@ -1,0 +1,314 @@
+[
+ {
+  "systemName": "kube-prometheus-stack",
+  "version": "41.4.0"
+ },
+ {
+  "systemName": "traefik",
+  "version": "15.0.0"
+ },
+ {
+  "systemName": "aws-load-balancer-controller",
+  "version": "1.4.5"
+ },
+ {
+  "systemName": "loki",
+  "version": "3.2.1"
+ },
+ {
+  "systemName": "velero",
+  "version": "2.32.0"
+ },
+ {
+  "systemName": "nginx-ingress",
+  "version": "0.15.0"
+ },
+ {
+  "systemName": "kubeapps",
+  "version": "10.3.5"
+ },
+ {
+  "systemName": "base",
+  "version": "1.15.2"
+ },
+ {
+  "systemName": "sealed-secrets",
+  "version": "2.6.9"
+ },
+ {
+  "systemName": "kube-prometheus",
+  "version": "8.1.11"
+ },
+ {
+  "systemName": "openebs",
+  "version": "3.3.1"
+ },
+ {
+  "systemName": "terraform",
+  "version": "1.1.1"
+ },
+ {
+  "systemName": "kong",
+  "version": "2.13.1"
+ },
+ {
+  "systemName": "jaeger-operator",
+  "version": "2.36.0"
+ },
+ {
+  "systemName": "sumologic",
+  "version": "2.17.0"
+ },
+ {
+  "systemName": "goldilocks",
+  "version": "6.3.0"
+ },
+ {
+  "systemName": "tigera-operator",
+  "version": "3.24.1"
+ },
+ {
+  "systemName": "solr-operator",
+  "version": "0.6.0"
+ },
+ {
+  "systemName": "mimir-distributed",
+  "version": "4.0.0-weekly.207"
+ },
+ {
+  "systemName": "vpa",
+  "version": "1.5.0"
+ },
+ {
+  "systemName": "karpenter",
+  "version": "0.16.3"
+ },
+ {
+  "systemName": "rabbitmq-cluster-operator",
+  "version": "3.1.0"
+ },
+ {
+  "systemName": "apisix",
+  "version": "0.11.1"
+ },
+ {
+  "systemName": "logging-operator",
+  "version": "3.17.9"
+ },
+ {
+  "systemName": "chaos-mesh",
+  "version": "2.4.1"
+ },
+ {
+  "systemName": "gatekeeper",
+  "version": "3.10.0-rc.2"
+ },
+ {
+  "systemName": "ambassador",
+  "version": "6.9.5"
+ },
+ {
+  "systemName": "armory-spinnaker-operator",
+  "version": "1.7.0"
+ },
+ {
+  "systemName": "csi-secrets-store-provider-aws",
+  "version": "0.0.3"
+ },
+ {
+  "systemName": "hydra",
+  "version": "0.25.6"
+ },
+ {
+  "systemName": "nri-bundle",
+  "version": "4.8.11"
+ },
+ {
+  "systemName": "argo-cd",
+  "version": "4.2.4"
+ },
+ {
+  "systemName": "meshery",
+  "version": "0.6.15"
+ },
+ {
+  "systemName": "pxc-operator",
+  "version": "1.11.1"
+ },
+ {
+  "systemName": "kubernetes-ingress",
+  "version": "1.23.2"
+ },
+ {
+  "systemName": "strimzi-kafka-operator",
+  "version": "0.31.1"
+ },
+ {
+  "systemName": "hpe-csi-driver",
+  "version": "2.2.0"
+ },
+ {
+  "systemName": "scribe",
+  "version": "0.2.0"
+ },
+ {
+  "systemName": "eclipse-che",
+  "version": "7.55.0"
+ },
+ {
+  "systemName": "istio-operator",
+  "version": "1.14.3"
+ },
+ {
+  "systemName": "octopus",
+  "version": "4.2.3"
+ },
+ {
+  "systemName": "postgres-operator",
+  "version": "1.7.1"
+ },
+ {
+  "systemName": "traefik",
+  "version": "1.4.0"
+ },
+ {
+  "systemName": "apisix-ingress-controller",
+  "version": "0.10.1"
+ },
+ {
+  "systemName": "flagger",
+  "version": "1.22.2"
+ },
+ {
+  "systemName": "mysql-operator",
+  "version": "2.0.7"
+ },
+ {
+  "systemName": "pxc-db",
+  "version": "1.11.5"
+ },
+ {
+  "systemName": "volsync",
+  "version": "0.5.0"
+ },
+ {
+  "systemName": "grafana-operator",
+  "version": "2.7.7"
+ },
+ {
+  "systemName": "istio-operator",
+  "version": "2.7.2"
+ },
+ {
+  "systemName": "snapshot-controller",
+  "version": "1.6.0"
+ },
+ {
+  "systemName": "vela-core",
+  "version": "1.6.0-alpha.4"
+ },
+ {
+  "systemName": "aad-pod-identity",
+  "version": "4.1.14"
+ },
+ {
+  "systemName": "connect",
+  "version": "1.8.1"
+ },
+ {
+  "systemName": "hivemq-operator",
+  "version": "0.11.8"
+ },
+ {
+  "systemName": "kube-prometheus",
+  "version": "9.3.1"
+ },
+ {
+  "systemName": "mysql-operator",
+  "version": "0.5.0-rc.3"
+ },
+ {
+  "systemName": "argo-workflows",
+  "version": "3.0.4"
+ },
+ {
+  "systemName": "chaos",
+  "version": "11.7.17"
+ },
+ {
+  "systemName": "epinio",
+  "version": "1.3.0"
+ },
+ {
+  "systemName": "kong",
+  "version": "7.0.0"
+ },
+ {
+  "systemName": "kong-mesh",
+  "version": "1.9.1"
+ },
+ {
+  "systemName": "mysql-operator",
+  "version": "0.6.2"
+ },
+ {
+  "systemName": "sealed-secrets",
+  "version": "1.1.6"
+ },
+ {
+  "systemName": "truenas-csp",
+  "version": "1.1.2"
+ },
+ {
+  "systemName": "camel-k",
+  "version": "0.11.1"
+ },
+ {
+  "systemName": "clustersecret",
+  "version": "0.1.0"
+ },
+ {
+  "systemName": "devtron-operator",
+  "version": "0.22.38"
+ },
+ {
+  "systemName": "flyte",
+  "version": "1.2.0"
+ },
+ {
+  "systemName": "k8ssandra",
+  "version": "1.6.0-20221012160637-2c11d549"
+ },
+ {
+  "systemName": "keycloak-operator",
+  "version": "0.1.5"
+ },
+ {
+  "systemName": "loki-simple-scalable",
+  "version": "1.8.11"
+ },
+ {
+  "systemName": "netris-operator",
+  "version": "1.0.1"
+ },
+ {
+  "systemName": "oathkeeper",
+  "version": "0.25.6"
+ },
+ {
+  "systemName": "paddlecloud",
+  "version": "0.1.0"
+ },
+ {
+  "systemName": "posthog",
+  "version": "27.1.6-6cce0aaaacad0330d042624a9962e74d83a869d5"
+ },
+ {
+  "systemName": "purelb",
+  "version": "0.6.4"
+ },
+ {
+  "systemName": "trident-operator",
+  "version": "22.7.0"
+ }
+]
