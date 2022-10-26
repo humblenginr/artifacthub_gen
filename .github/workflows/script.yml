@@ -27,4 +27,4 @@ jobs:
       - name: Commit results
         uses: EndBug/add-and-commit@v9
         with: 
-          add: "*.json"
+          add: "output/"
