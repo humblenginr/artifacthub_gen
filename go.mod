@@ -2,6 +2,10 @@ module github.com/sudo-NithishKarthik/meshmodel_ahub_gen
 
 go 1.19
 
+replace (
+	github.com/layer5io/meshkit v0.6.5 => ../../layer5/meshkit
+)
+
 require github.com/layer5io/meshkit v0.6.5
 
 require (
